@@ -1,0 +1,34 @@
+{
+    "application": {
+        "id": "",
+        "title": "com.sap.ContactApp.ContactApp.ContactApp",
+        "type": "SAP_UI5_Component",
+        "componentUrl": "/",
+        "appUrl": "#ContactApp-Display",
+        "navigationComponentName": "com.sap.ContactApp.ContactApp",
+        "intentSemanticObject": "ContactApp",
+        "intentAction": "Display",
+        "html5ApplicationName": "contactapp",
+        "HCPParentApplicationName": ""
+    },
+    "assignment": {
+        "groups": [
+            "5df8b5ce-4525-4e86-9e7c-c8c4df2f37dd"
+        ],
+        "contentPackages": [
+            "579fbeb2-e04d-4aad-8994-4b8d45adbd77"
+        ],
+        "categories": []
+    },
+    "tile": {
+        "type": "StaticTile",
+        "title": "ContactApp ",
+        "subtitle": "Crud Operations using XSJS + HANA",
+        "searchKeywords": "ContactApp ,Crud Operations using XSJS + HANA",
+        "displayIconUrl": "sap-icon://approvals",
+        "displayInfoText": "",
+        "size": "1x1",
+        "serviceURL": "",
+        "refreshInterval": ""
+    }
+}

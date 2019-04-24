@@ -1,0 +1,10 @@
+#
+#Wed Apr 24 06:11:08 UTC 2019
+Name=contactAppDestMongo
+URL=https\://contactapp-unadjourned-subchapter.cfapps.eu10.hana.ondemand.com/contactApp
+ProxyType=Internet
+Type=HTTP
+WebIDEEnabled=true
+Authentication=NoAuthentication
+WebIDEUsage=odata_gen,odata_xs
+WebIDESystem=contactAppDest
